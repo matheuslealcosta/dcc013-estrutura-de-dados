@@ -6,7 +6,7 @@ int main()
 {
     cout << "Hello, world!" << endl;
     int fechar = 0;
-    cout << "Deseja finalizar a execução? Digite 1" << endl;
+    cout << "Deseja finalizar o programa? Digite 1" << endl;
     cin >> fechar;
     if (fechar = 1)
     {
